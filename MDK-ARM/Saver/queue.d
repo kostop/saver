@@ -1,0 +1,15 @@
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/queue.c
+saver\queue.o: D:\YingYong\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+saver\queue.o: D:\YingYong\Keil5\ARM\ARMCC\Bin\..\include\string.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+saver\queue.o: D:\YingYong\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+saver\queue.o: D:\YingYong\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+saver\queue.o: ../Core/Inc/FreeRTOSConfig.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+saver\queue.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

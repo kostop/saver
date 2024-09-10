@@ -1,0 +1,15 @@
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+saver\event_groups.o: D:\YingYong\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+saver\event_groups.o: D:\YingYong\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+saver\event_groups.o: D:\YingYong\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+saver\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+saver\event_groups.o: C:/Users/32541/STM32Cube/Repository/STM32Cube_FW_F1_V1.8.6/Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
